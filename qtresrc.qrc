@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../GUI files/enter(with border).png</file>
+        <file>../../GUI files/exit(with border).png</file>
+    </qresource>
+</RCC>
